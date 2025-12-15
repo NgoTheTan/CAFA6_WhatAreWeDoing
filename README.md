@@ -24,7 +24,7 @@ Nhóm không thể tải những dữ liệu này lên GitHub do kích thước 
 Do đó, nhóm nghĩ rằng cách tốt nhất là **chạy trực tiếp trên Kaggle**.
 ### Links đến các notebook
 
-- **modelA**: https://www.kaggle.com/code/tnngth/cafa-6-protein-function-starter-eda-model
-- **modelB**: https://www.kaggle.com/code/daovanda2405/cafa-6-protein-function-starter-eda-model
+- **model1**: https://www.kaggle.com/code/tnngth/cafa-6-protein-function-starter-eda-model
+- **model2**: https://www.kaggle.com/code/tnngth/cafa-6-protein-function-starter-eda-mode-c44c79
 - **ensemble1**: https://www.kaggle.com/code/daovanda2405/multi-model-blend
 - **ensemble2**: https://www.kaggle.com/code/daovanda2405/cafa-6-blend-goa-negative-propagation
